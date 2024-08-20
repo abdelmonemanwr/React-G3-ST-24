@@ -1,2 +1,15 @@
 Day1
- -- 
+   -- History JS
+   -- where to write js code
+   -- Variables 
+   -- Date Types 
+   -- Arthematic Operators
+   -- Comparisons
+   -- Logical Operators 
+   -- Short Circuits
+   -- Conditions
+   -- Loops
+   -- How to take input user
+   -- document.writeln
+   -- alert, confirm
+

@@ -1,0 +1,13 @@
+functions
+  -- built in function
+  -- user defined function
+     -- function statement
+     -- function expression
+        -- callback function
+        -- anonymous function
+  -- hoisting
+  -- how js engine executes JS code
+  -- default values
+  -- String Objects
+  -- Array
+  -- Self Study: Date Object

@@ -3,7 +3,9 @@
 Ex: input : [1,2,3,4,5]
 Expected Output : 2,4
 
-========================
+=============================================
+
 2- Write a JavaScript function that accepts a string as a parameter and converts the first letter of each word of the string in upper case.
+
 Ex: input: 'the quick brown fox'
 Expected Output: 'The Quick Brown Fox'

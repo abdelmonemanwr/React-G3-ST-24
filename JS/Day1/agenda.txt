@@ -9,7 +9,7 @@ Day1
    -- Short Circuits
    -- Conditions
    -- Loops
-   -- How to take input user
+   -- How to take input from user
    -- document.writeln
    -- alert, confirm
 
